@@ -8,7 +8,7 @@
 </settings>
 <grid distance="0.127" unitdist="mm" unit="mm" style="lines" multiple="1" display="no" altdistance="0.025" altunitdist="inch" altunit="mm"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
@@ -23,7 +23,7 @@
 <layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -32,9 +32,9 @@
 <layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
@@ -389,21 +389,21 @@ design rules under a new name.</description>
 <element name="R3" library="RCL" package="0603" value="10k" x="8.763" y="15.24" rot="R270"/>
 <element name="X2" library="Conn" package="T1.6/0.9" value="3v3" x="3.683" y="2.413" rot="R270"/>
 <element name="X3" library="Conn" package="T1.6/0.9" value="GND" x="6.223" y="2.413" rot="R270"/>
-<element name="X4" library="Conn" package="T1.6/0.9" value="GND" x="8.763" y="2.413" rot="R270"/>
-<element name="X5" library="Conn" package="T1.6/0.9" value="GND" x="11.303" y="2.413" rot="R270"/>
+<element name="X4" library="Conn" package="T1.6/0.9" value="SCL" x="8.763" y="2.413" rot="R270"/>
+<element name="X5" library="Conn" package="T1.6/0.9" value="SDA" x="11.303" y="2.413" rot="R270"/>
 <element name="X6" library="Conn" package="T1.6/0.9" value="3v3" x="3.683" y="17.653" rot="R90"/>
 <element name="X7" library="Conn" package="T1.6/0.9" value="GND" x="6.223" y="17.653" rot="R90"/>
-<element name="X8" library="Conn" package="T1.6/0.9" value="GND" x="8.763" y="17.653" rot="R90"/>
-<element name="X9" library="Conn" package="T1.6/0.9" value="GND" x="11.303" y="17.653" rot="R90"/>
-<element name="IC1" library="maxim" package="SO8" value="" x="8.509" y="9.017" rot="R270"/>
-<element name="R7" library="RCL" package="0603" value="" x="12.954" y="7.112" rot="R270"/>
-<element name="R4" library="RCL" package="0603" value="" x="12.954" y="9.652" rot="R90"/>
-<element name="R5" library="RCL" package="0603" value="" x="11.303" y="11.176" rot="R90"/>
-<element name="R6" library="RCL" package="0603" value="" x="9.906" y="11.176" rot="R90"/>
+<element name="X8" library="Conn" package="T1.6/0.9" value="SCL" x="8.763" y="17.653" rot="R90"/>
+<element name="X9" library="Conn" package="T1.6/0.9" value="SDA" x="11.303" y="17.653" rot="R90"/>
+<element name="IC1" library="maxim" package="SO8" value="DS2482S-100" x="8.509" y="9.017" rot="R270"/>
+<element name="R7" library="RCL" package="0603" value="/A1" x="12.954" y="7.112" rot="R270"/>
+<element name="R4" library="RCL" package="0603" value="/A0" x="12.954" y="9.652" rot="R90"/>
+<element name="R5" library="RCL" package="0603" value="A0" x="11.303" y="11.176" rot="R90"/>
+<element name="R6" library="RCL" package="0603" value="A1" x="9.906" y="11.176" rot="R90"/>
 <element name="Q1" library="Transistor" package="SOT23" value="BSS84" x="7.239" y="11.938" rot="R180"/>
-<element name="X1" library="Conn" package="T1.6/0.9" value="3v3" x="3.683" y="9.017"/>
-<element name="X10" library="Conn" package="T1.6/0.9" value="3v3" x="3.81" y="11.557"/>
-<element name="X11" library="Conn" package="T1.6/0.9" value="3v3" x="3.683" y="6.477"/>
+<element name="X1" library="Conn" package="T1.6/0.9" value="OW" x="3.683" y="9.017" rot="R180"/>
+<element name="X10" library="Conn" package="T1.6/0.9" value="3v3" x="3.81" y="11.557" rot="R180"/>
+<element name="X11" library="Conn" package="T1.6/0.9" value="GND" x="3.683" y="6.477" rot="R180"/>
 </elements>
 <signals>
 <signal name="GND">
