@@ -2004,6 +2004,8 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="R1" library="RCL" deviceset="R" device="0603" value="10k"/>
 <part name="R4" library="RCL" deviceset="R" device="0603" value="10k"/>
+<part name="R5" library="RCL" deviceset="R" device="0603" value="n.b."/>
+<part name="+3V4" library="supply1" deviceset="+3V3" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2040,6 +2042,11 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <attribute name="NAME" x="85.09" y="1.4986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="90.17" y="1.778" size="1.778" layer="96"/>
 </instance>
+<instance part="R5" gate="G$1" x="96.52" y="17.78" smashed="yes" rot="R90">
+<attribute name="NAME" x="95.0214" y="13.97" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="94.742" y="19.05" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="+3V4" gate="G$1" x="96.52" y="27.94"/>
 </instances>
 <busses>
 </busses>
@@ -2095,6 +2102,11 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <wire x1="38.1" y1="17.78" x2="38.1" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="VCCA"/>
 <wire x1="38.1" y1="12.7" x2="40.64" y2="12.7" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="+3V4" gate="G$1" pin="+3V3"/>
+<wire x1="96.52" y1="25.4" x2="96.52" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SDAA" class="0">
@@ -2165,6 +2177,9 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="93.98" y1="5.08" x2="96.52" y2="5.08" width="0.1524" layer="91"/>
 <junction x="96.52" y="5.08"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<wire x1="96.52" y1="12.7" x2="96.52" y2="10.16" width="0.1524" layer="91"/>
+<junction x="96.52" y="10.16"/>
 </segment>
 </net>
 </nets>
