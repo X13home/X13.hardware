@@ -1,0 +1,2 @@
+Bridge_DS2482       I2C to 1-Wire bridge
+Bridge_PCA9517      I2C to I2C Bridge/Level Translator
