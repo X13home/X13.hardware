@@ -1,6 +1,8 @@
 Sens_BMP085                 Sensor Bosh - BMP085, Pressure & Temperature(obsolete)
-Sens_BMP180                 Sensor Bosh - BMP180, Pressure & Temperature, compatible with BMP085
+Sens_BMP180                 Sensor Bosh - BMP180, Pressure & Temperature, 
+                            compatible with BMP085
 Sens_BMP085_HIH613x         Sensors Bosh - BMP085, Pressure & Temperature and
-                            Honeywell - HIH6130/HIH6131/HIH6120/HIH6121,  Humidity & Temperature
+                            Honeywell - HIH6130/HIH6131/HIH6120/HIH6121,  
+                            Humidity & Temperature
 Sens_LM75                   Sensor NXP/NS/STmicro - LM75, Temperature
 Sens_SI7005                 Sensor Silicon Image Si7005, Temperature & Humidity
