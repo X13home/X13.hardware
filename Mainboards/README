@@ -1,0 +1,14 @@
+X13.hardware.Mainboards
+=======================
+
+Hardware section for project X13.Home.
+
+Automation System oriented to "Smart House" over MQTT(S) protocol
+
+433/868/915 MHz
+  TRV_MRF49_U_V1.1_F.*  Mainboard with transceiver MRF49XA(Microchip)
+  TRV_ANAREN_V0.5.*     Mainboard with transceiver from Anaren - based on CC1101/CC110L, PROTOTYPE
+  TRV_RFM23_V0.1.*      Mainboard with transceiver RFM23 - based on Si4432, PROTOTYPE
+
+2.4GHz
+  TRV_RFM70_V0.1.*      Mainboard with transceiver RFM70, Low Cost PROTOTYPE
