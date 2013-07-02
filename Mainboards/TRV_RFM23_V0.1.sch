@@ -10099,13 +10099,14 @@ Source: http://www.onsemi.com/pub_link/Collateral/MBRA340T3-D.PDF</description>
 <part name="QR1" library="QUARTZ" deviceset="QR" device="CR" value="8M"/>
 <part name="C2" library="RCL" deviceset="C_POL" device="SMCB" value="10u"/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
-<part name="RF1" library="RF" deviceset="RFM22" device="S1"/>
+<part name="RF1" library="RF" deviceset="RFM22" device="S1" value="RFM23"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
 <part name="X6" library="Conn" deviceset="BU-SMA-V" device=""/>
+<part name="R4" library="RCL" deviceset="R" device="0603" value="n.b"/>
 </parts>
 <sheets>
 <sheet>
@@ -10179,6 +10180,7 @@ Source: http://www.onsemi.com/pub_link/Collateral/MBRA340T3-D.PDF</description>
 <instance part="GND4" gate="1" x="93.98" y="68.58" rot="R90"/>
 <instance part="+3V1" gate="G$1" x="55.88" y="53.34" rot="R90"/>
 <instance part="X6" gate="G$1" x="45.72" y="76.2"/>
+<instance part="R4" gate="G$1" x="111.76" y="43.18"/>
 </instances>
 <busses>
 </busses>
@@ -10380,9 +10382,15 @@ Source: http://www.onsemi.com/pub_link/Collateral/MBRA340T3-D.PDF</description>
 <pinref part="IC2" gate="G$1" pin="MISO/PB4"/>
 <label x="-33.02" y="114.3" size="1.778" layer="95"/>
 <pinref part="ISP" gate="-1" pin="S"/>
-<wire x1="101.6" y1="43.18" x2="91.44" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="127" y1="43.18" x2="116.84" y2="43.18" width="0.1524" layer="91"/>
+<label x="119.38" y="43.18" size="1.778" layer="95"/>
 <pinref part="RF1" gate="G$1" pin="SDO"/>
-<label x="93.98" y="43.18" size="1.778" layer="95"/>
+<pinref part="R4" gate="G$1" pin="1"/>
+<wire x1="91.44" y1="43.18" x2="106.68" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="R4" gate="G$1" pin="2"/>
+<wire x1="106.68" y1="43.18" x2="116.84" y2="43.18" width="0.1524" layer="91"/>
+<junction x="106.68" y="43.18"/>
+<junction x="116.84" y="43.18"/>
 </segment>
 </net>
 <net name="RST" class="0">
@@ -10571,7 +10579,7 @@ Source: http://www.onsemi.com/pub_link/Collateral/MBRA340T3-D.PDF</description>
 <wire x1="45.72" y1="121.92" x2="48.26" y2="121.92" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$10" class="0">
+<net name="LED" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="CLK0/ICP1/PB0"/>
 <pinref part="R5" gate="G$1" pin="1"/>
