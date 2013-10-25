@@ -1,2 +1,3 @@
 DRV_RGB                       RGB LED Driver
 DRV_RGB_PRG                   Programming Adapter for RGB LED Driver
+EXT_LED_RGB_NPN               RGB LED Driver with NPN outs, modular series

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -870,11 +870,11 @@
 <instances>
 <instance part="GND2" gate="1" x="20.32" y="43.18"/>
 <instance part="X1" gate="1" x="10.16" y="60.96"/>
-<instance part="X2" gate="1" x="10.16" y="48.26"/>
+<instance part="X2" gate="1" x="5.08" y="48.26"/>
 <instance part="X3" gate="1" x="10.16" y="55.88"/>
-<instance part="X4" gate="1" x="10.16" y="53.34"/>
+<instance part="X4" gate="1" x="5.08" y="53.34"/>
 <instance part="X5" gate="1" x="10.16" y="50.8"/>
-<instance part="X6" gate="1" x="10.16" y="58.42"/>
+<instance part="X6" gate="1" x="5.08" y="58.42"/>
 <instance part="SV1" gate="-1" x="25.4" y="58.42" rot="R180"/>
 <instance part="SV1" gate="-2" x="25.4" y="60.96" rot="R180"/>
 <instance part="SV1" gate="-3" x="25.4" y="55.88" rot="R180"/>
@@ -882,7 +882,7 @@
 <instance part="SV1" gate="-5" x="25.4" y="50.8" rot="R180"/>
 <instance part="SV1" gate="-6" x="25.4" y="48.26" rot="R180"/>
 <instance part="X7" gate="1" x="10.16" y="63.5"/>
-<instance part="X8" gate="1" x="10.16" y="45.72"/>
+<instance part="X8" gate="1" x="5.08" y="45.72"/>
 </instances>
 <busses>
 </busses>
@@ -890,7 +890,7 @@
 <net name="GREEN" class="0">
 <segment>
 <pinref part="X6" gate="1" pin="S"/>
-<wire x1="12.7" y1="58.42" x2="22.86" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="58.42" x2="22.86" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="SV1" gate="-1" pin="S"/>
 </segment>
 </net>
@@ -900,12 +900,12 @@
 <wire x1="22.86" y1="48.26" x2="20.32" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="48.26" x2="20.32" y2="45.72" width="0.1524" layer="91"/>
 <junction x="20.32" y="48.26"/>
-<wire x1="12.7" y1="48.26" x2="15.24" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="48.26" x2="15.24" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="X2" gate="1" pin="S"/>
 <pinref part="SV1" gate="-6" pin="S"/>
 <pinref part="X8" gate="1" pin="S"/>
 <wire x1="15.24" y1="48.26" x2="20.32" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="45.72" x2="15.24" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="45.72" x2="15.24" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="45.72" x2="15.24" y2="48.26" width="0.1524" layer="91"/>
 <junction x="15.24" y="48.26"/>
 </segment>
@@ -913,7 +913,7 @@
 <net name="SDA" class="0">
 <segment>
 <pinref part="X4" gate="1" pin="S"/>
-<wire x1="12.7" y1="53.34" x2="22.86" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="53.34" x2="22.86" y2="53.34" width="0.1524" layer="91"/>
 <pinref part="SV1" gate="-4" pin="S"/>
 </segment>
 </net>
