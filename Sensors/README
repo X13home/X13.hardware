@@ -6,4 +6,5 @@ Sens_BMP085_HIH613x         Sensors Bosh - BMP085, Pressure & Temperature and
 Sens_HIH613x                Sensors Honeywell - HIH6130/HIH6131, Temperature and Humidity
 Sens_LM75                   Sensor NXP/NS/STmicro - LM75, Temperature
 Sens_SHT2x                  Sensor Sensirion SHT21, Temperature and Humidity
-Sens_SI7005                 Sensor Silicon Image Si7005, Temperature & Humidity, !! Single on Bus
+Sens_CC2D                   Sensor ChipCap2 from "GE Measurement & Control", Temperature and Humidity
+Sens_SI7005                 Sensor Silicon Image Si7005, Temperature & Humidity, !! Single on Bus, Not supported more
