@@ -12,3 +12,6 @@ Automation System oriented to "Smart House" over MQTT(S) protocol
 
 2.4GHz
   TRV_RFM70_V0.1.*      Mainboard with transceiver RFM70, Low Cost PROTOTYPE
+  
+Other
+  EXT_MAIN              Adapter for UP20 to modular series
