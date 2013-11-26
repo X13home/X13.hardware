@@ -6,12 +6,8 @@ Hardware section for project X13.Home.
 Automation System oriented to "Smart House" over MQTT(S) protocol
 
 433/868/915 MHz
-  TRV_MRF49_U_V1.1_F.*  Mainboard with transceiver MRF49XA(Microchip)
-  TRV_ANAREN_V0.5.*     Mainboard with transceiver from Anaren - based on CC1101/CC110L, PROTOTYPE
-  TRV_RFM23_V0.1.*      Mainboard with transceiver RFM23 - based on Si4432, PROTOTYPE
+  TRV_UP20              Mainboard UP20, ATMega328P + TRV CC1101(TI)
+  TRV_MRF49_U_V1.1_F    Mainboard UN10, ATMega328P + TRV MRF49XA(Microchip)
 
-2.4GHz
-  TRV_RFM70_V0.1.*      Mainboard with transceiver RFM70, Low Cost PROTOTYPE
-  
 Other
-  EXT_MAIN              Adapter for UP20 to modular series
+  USB_Adapter           USB Adapter for UP20

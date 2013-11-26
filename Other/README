@@ -1,8 +1,7 @@
-DRV_RGB                       RGB LED Driver
-DRV_RGB_PRG                   Programming Adapter for RGB LED Driver
-EXT_ADIN                      Universal ADIO board, modular series
-EXT_DC_OUT                    Digital Outs 4x 10-40V 1A, modular series
-EXT_EXPANDER                  I2C Bus expander to 16 digital IO, IC - MCP23016, modular series
-EXT_LED_RGB_NPN               RGB LED Driver with NPN outs, modular series
-EXT_SCR                       4x AC SCR Switch 80-300VAC, 2/8A
-EXT_TMC222                    I2C, Stepper motor controller Trinamic TMC222, modular series
+Extensions Module, Modular Series
+  EXT_ADIN              Universal ADIO board
+  EXT_DC_OUT            Digital Outs 4x 10-40V 1A
+  EXT_EXPANDER          I2C Bus expander to 16 digital IO, IC - MCP23016
+  EXT_LED_RGB_NPN       RGB LED Driver with NPN outs, Analog - BlinkM
+  EXT_SCR               4x AC SCR Switch 80-300VAC, 2/8A
+  EXT_TMC222            I2C, Stepper motor controller Trinamic TMC222

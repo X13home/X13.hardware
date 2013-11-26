@@ -1,4 +1,3 @@
-Bridge_DS2482       I2C to 1-Wire bridge, Not more supported
 Bridge_PCA9517      I2C to I2C Bridge/Level Translator
 EXT_TWI_LVC         I2C to I2C Bridge/Level Translator, Modular Series
 

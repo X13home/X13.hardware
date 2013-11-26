@@ -29,37 +29,37 @@
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="1" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="7" fill="1" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -71,47 +71,47 @@
 <layer number="96" name="Values" color="7" fill="1" visible="no" active="no"/>
 <layer number="97" name="Info" color="7" fill="1" visible="no" active="no"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
-<layer number="100" name="Muster" color="7" fill="1" visible="no" active="yes"/>
-<layer number="101" name="Patch_Top" color="7" fill="1" visible="no" active="yes"/>
-<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
-<layer number="103" name="tMap" color="7" fill="1" visible="no" active="yes"/>
-<layer number="104" name="Name" color="7" fill="1" visible="no" active="yes"/>
-<layer number="105" name="tPlate" color="7" fill="1" visible="no" active="yes"/>
-<layer number="106" name="bPlate" color="7" fill="1" visible="no" active="yes"/>
-<layer number="107" name="Crop" color="7" fill="1" visible="no" active="yes"/>
-<layer number="116" name="Patch_BOT" color="7" fill="1" visible="no" active="yes"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
-<layer number="200" name="200bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="201" name="201bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="202" name="202bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="203" name="203bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="204" name="204bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="205" name="205bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="207" name="207bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="208" name="208bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="217" name="217bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="218" name="218bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="219" name="219bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="220" name="220bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="221" name="221bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="222" name="222bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="223" name="223bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="224" name="224bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="250" name="Descript" color="7" fill="1" visible="no" active="yes"/>
-<layer number="251" name="SMDround" color="7" fill="1" visible="no" active="yes"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
+<layer number="100" name="Muster" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="101" name="Patch_Top" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="103" name="tMap" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="104" name="Name" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="105" name="tPlate" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="106" name="bPlate" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="107" name="Crop" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="116" name="Patch_BOT" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="200" name="200bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="201" name="201bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="202" name="202bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="203" name="203bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="204" name="204bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="205" name="205bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="207" name="207bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="208" name="208bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="217" name="217bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="218" name="218bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="219" name="219bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="220" name="220bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="221" name="221bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="222" name="222bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="223" name="223bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="224" name="224bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="250" name="Descript" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="251" name="SMDround" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
 <plain>
@@ -123,8 +123,9 @@
 <rectangle x1="0" y1="70" x2="33.75" y2="72" layer="39"/>
 <text x="26.924" y="69.088" size="2.54" layer="1" font="vector" ratio="15">TOP</text>
 <text x="33.401" y="69.088" size="2.54" layer="16" font="vector" ratio="15" rot="MR0">BOT</text>
-<text x="23.622" y="22.098" size="2.54" layer="16" font="vector" ratio="15" rot="MR0">Ext ADIn</text>
+<text x="23.495" y="25.019" size="2.54" layer="26" font="vector" ratio="15" rot="MR0">Ext ADIn</text>
 <rectangle x1="29.337" y1="41.148" x2="29.845" y2="42.418" layer="29"/>
+<text x="26.289" y="20.32" size="2.54" layer="26" rot="MR0">X13Home.org</text>
 </plain>
 <libraries>
 <library name="Conn">
@@ -620,61 +621,211 @@ design rules under a new name.</description>
 <elements>
 <element name="OUT" library="Conn" package="ML20LS" value="MF20" x="20.701" y="56.769" rot="R270"/>
 <element name="IN" library="Conn" package="FE10-2WSS" value="EF20" x="3.81" y="56.769" rot="R270"/>
-<element name="R1.1" library="RCL" package="1206" value="3k3" x="3.937" y="23.241" rot="R180"/>
-<element name="R2.1" library="RCL" package="1206" value="6k8" x="3.937" y="20.574" rot="R180"/>
-<element name="R3.1" library="RCL" package="1206" value="n.b." x="3.937" y="17.907" rot="R180"/>
-<element name="C1" library="RCL" package="1206" value="33n" x="3.937" y="25.654" rot="R180"/>
-<element name="ZD1" library="Diode" package="SOD80" value="" x="3.81" y="28.321" rot="R180"/>
-<element name="R4.1" library="RCL" package="1206" value="n.b." x="3.429" y="4.318" rot="R270"/>
-<element name="R1.2" library="RCL" package="1206" value="3k3" x="9.017" y="23.241" rot="R180"/>
-<element name="R2.2" library="RCL" package="1206" value="6k8" x="9.017" y="20.574" rot="R180"/>
-<element name="R3.2" library="RCL" package="1206" value="560R" x="9.017" y="17.907" rot="R180"/>
-<element name="C2" library="RCL" package="1206" value="33n" x="9.017" y="25.527" rot="R180"/>
-<element name="ZD2" library="Diode" package="SOD80" value="" x="8.89" y="28.321" rot="R180"/>
-<element name="R4.2" library="RCL" package="1206" value="n.b." x="7.239" y="4.318" rot="R270"/>
-<element name="R1.3" library="RCL" package="1206" value="39k" x="14.097" y="23.241" rot="R180"/>
-<element name="R2.3" library="RCL" package="1206" value="10k" x="14.097" y="20.574" rot="R180"/>
-<element name="R3.3" library="RCL" package="1206" value="3k6" x="14.097" y="17.907" rot="R180"/>
-<element name="C3" library="RCL" package="1206" value="33n" x="14.097" y="25.654" rot="R180"/>
-<element name="ZD3" library="Diode" package="SOD80" value="" x="13.97" y="28.321" rot="R180"/>
-<element name="R4.3" library="RCL" package="1206" value="n.b." x="14.859" y="4.318" rot="R270"/>
-<element name="R1.4" library="RCL" package="1206" value="39k" x="19.177" y="23.241" rot="R180"/>
-<element name="R2.4" library="RCL" package="1206" value="10k" x="19.177" y="20.574" rot="R180"/>
-<element name="R3.4" library="RCL" package="1206" value="3k6" x="19.177" y="17.907" rot="R180"/>
-<element name="C4" library="RCL" package="1206" value="33n" x="19.177" y="25.654" rot="R180"/>
-<element name="ZD4" library="Diode" package="SOD80" value="" x="19.05" y="28.321" rot="R180"/>
-<element name="R4.4" library="RCL" package="1206" value="n.b." x="18.669" y="4.318" rot="R270"/>
-<element name="R1.5" library="RCL" package="1206" value="39k" x="24.384" y="23.241" rot="R180"/>
-<element name="R2.5" library="RCL" package="1206" value="10k" x="24.384" y="20.574" rot="R180"/>
-<element name="R3.5" library="RCL" package="1206" value="n.b." x="24.384" y="17.907" rot="R180"/>
-<element name="C5" library="RCL" package="1206" value="33n" x="24.384" y="25.654" rot="R180"/>
-<element name="ZD5" library="Diode" package="SOD80" value="" x="24.257" y="28.321" rot="R180"/>
-<element name="R4.5" library="RCL" package="1206" value="3k6" x="22.479" y="4.318" rot="R270"/>
-<element name="R1.6" library="RCL" package="1206" value="39k" x="29.591" y="23.241" rot="R180"/>
-<element name="R2.6" library="RCL" package="1206" value="10k" x="29.591" y="20.574" rot="R180"/>
-<element name="R3.6" library="RCL" package="1206" value="n.b." x="29.591" y="17.907" rot="R180"/>
-<element name="C6" library="RCL" package="1206" value="33n" x="29.591" y="25.654" rot="R180"/>
-<element name="ZD6" library="Diode" package="SOD80" value="" x="29.464" y="28.321" rot="R180"/>
-<element name="R4.6" library="RCL" package="1206" value="3k6" x="26.289" y="4.318" rot="R270"/>
-<element name="XS2" library="Conn" package="1727078" value="1727078" x="16.764" y="11.684"/>
-<element name="LED1" library="Optic" package="1206" value="GREEN" x="3.556" y="38.481"/>
-<element name="R26" library="RCL" package="1206" value="470R" x="3.556" y="35.687"/>
-<element name="Q1" library="Transistor" package="SOT23" value="BSS139" x="3.81" y="32.893" rot="R90"/>
+<element name="R1.1" library="RCL" package="1206" value="3k3" x="3.937" y="23.241" smashed="yes" rot="R180">
+<attribute name="VALUE" x="4.826" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="5.207" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R2.1" library="RCL" package="1206" value="6k8" x="3.937" y="20.574" smashed="yes" rot="R180">
+<attribute name="VALUE" x="4.826" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="5.207" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R3.1" library="RCL" package="1206" value="n.b." x="3.937" y="17.907" smashed="yes" rot="R180">
+<attribute name="VALUE" x="4.826" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="5.08" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="C1" library="RCL" package="1206" value="33n" x="3.937" y="25.654" smashed="yes" rot="R180">
+<attribute name="VALUE" x="4.826" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="4.572" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="D1" library="Diode" package="SOD80" value="" x="3.81" y="28.321" smashed="yes" rot="R180">
+<attribute name="VALUE" x="4.569" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="2.921" y="27.94" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="R4.1" library="RCL" package="1206" value="n.b." x="3.429" y="4.318" smashed="yes" rot="R270">
+<attribute name="VALUE" x="3.319" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
+<attribute name="NAME" x="4.596" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
+</element>
+<element name="R1.2" library="RCL" package="1206" value="3k3" x="9.017" y="23.241" smashed="yes" rot="R180">
+<attribute name="VALUE" x="9.906" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="10.16" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R2.2" library="RCL" package="1206" value="6k8" x="9.017" y="20.574" smashed="yes" rot="R180">
+<attribute name="VALUE" x="9.906" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="10.16" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R3.2" library="RCL" package="1206" value="560R" x="9.017" y="17.907" smashed="yes" rot="R180">
+<attribute name="VALUE" x="9.906" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="10.16" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="C2" library="RCL" package="1206" value="33n" x="9.017" y="25.654" smashed="yes" rot="R180">
+<attribute name="VALUE" x="9.906" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="9.652" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="D2" library="Diode" package="SOD80" value="" x="8.89" y="28.321" smashed="yes" rot="R180">
+<attribute name="VALUE" x="9.649" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="8.001" y="27.94" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="R4.2" library="RCL" package="1206" value="n.b." x="7.239" y="4.318" smashed="yes" rot="R270">
+<attribute name="VALUE" x="7.129" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
+<attribute name="NAME" x="8.406" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
+</element>
+<element name="R1.3" library="RCL" package="1206" value="39k" x="14.097" y="23.241" smashed="yes" rot="R180">
+<attribute name="VALUE" x="14.986" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="15.24" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R2.3" library="RCL" package="1206" value="10k" x="14.097" y="20.574" smashed="yes" rot="R180">
+<attribute name="VALUE" x="14.986" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="15.24" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R3.3" library="RCL" package="1206" value="3k6" x="14.097" y="17.907" smashed="yes" rot="R180">
+<attribute name="VALUE" x="14.986" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="15.24" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="C3" library="RCL" package="1206" value="33n" x="14.097" y="25.654" smashed="yes" rot="R180">
+<attribute name="VALUE" x="14.986" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="14.732" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="D3" library="Diode" package="SOD80" value="" x="13.97" y="28.321" smashed="yes" rot="R180">
+<attribute name="VALUE" x="14.729" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="13.081" y="27.94" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="R4.3" library="RCL" package="1206" value="n.b." x="14.859" y="4.318" smashed="yes" rot="R270">
+<attribute name="VALUE" x="14.749" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
+<attribute name="NAME" x="16.026" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
+</element>
+<element name="R1.4" library="RCL" package="1206" value="39k" x="19.177" y="23.241" smashed="yes" rot="R180">
+<attribute name="VALUE" x="20.066" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="20.32" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R2.4" library="RCL" package="1206" value="10k" x="19.177" y="20.574" smashed="yes" rot="R180">
+<attribute name="VALUE" x="20.066" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="20.32" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R3.4" library="RCL" package="1206" value="3k6" x="19.177" y="17.907" smashed="yes" rot="R180">
+<attribute name="VALUE" x="20.066" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="20.32" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="C4" library="RCL" package="1206" value="33n" x="19.177" y="25.654" smashed="yes" rot="R180">
+<attribute name="VALUE" x="20.066" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="19.812" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="D4" library="Diode" package="SOD80" value="" x="19.05" y="28.321" smashed="yes" rot="R180">
+<attribute name="VALUE" x="19.809" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="18.161" y="27.94" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="R4.4" library="RCL" package="1206" value="n.b." x="18.669" y="4.318" smashed="yes" rot="R270">
+<attribute name="VALUE" x="18.559" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
+<attribute name="NAME" x="19.836" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
+</element>
+<element name="R1.5" library="RCL" package="1206" value="39k" x="24.384" y="23.241" smashed="yes" rot="R180">
+<attribute name="VALUE" x="25.273" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="25.527" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R2.5" library="RCL" package="1206" value="10k" x="24.384" y="20.574" smashed="yes" rot="R180">
+<attribute name="VALUE" x="25.273" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="25.527" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R3.5" library="RCL" package="1206" value="n.b." x="24.384" y="17.907" smashed="yes" rot="R180">
+<attribute name="VALUE" x="25.273" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="25.527" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="C5" library="RCL" package="1206" value="33n" x="24.384" y="25.654" smashed="yes" rot="R180">
+<attribute name="VALUE" x="25.273" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="25.019" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="D5" library="Diode" package="SOD80" value="" x="24.257" y="28.321" smashed="yes" rot="R180">
+<attribute name="VALUE" x="25.016" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="23.368" y="27.94" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="R4.5" library="RCL" package="1206" value="3k6" x="22.479" y="4.318" smashed="yes" rot="R270">
+<attribute name="VALUE" x="22.369" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
+<attribute name="NAME" x="23.646" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
+</element>
+<element name="R1.6" library="RCL" package="1206" value="39k" x="29.591" y="23.241" smashed="yes" rot="R180">
+<attribute name="VALUE" x="30.48" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="30.734" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R2.6" library="RCL" package="1206" value="10k" x="29.591" y="20.574" smashed="yes" rot="R180">
+<attribute name="VALUE" x="30.48" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="30.734" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="R3.6" library="RCL" package="1206" value="n.b." x="29.591" y="17.907" smashed="yes" rot="R180">
+<attribute name="VALUE" x="30.48" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="30.734" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="C6" library="RCL" package="1206" value="33n" x="29.591" y="25.654" smashed="yes" rot="R180">
+<attribute name="VALUE" x="30.48" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="30.226" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
+</element>
+<element name="D6" library="Diode" package="SOD80" value="" x="29.464" y="28.321" smashed="yes" rot="R180">
+<attribute name="VALUE" x="30.223" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
+<attribute name="NAME" x="28.575" y="27.94" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="R4.6" library="RCL" package="1206" value="3k6" x="26.289" y="4.318" smashed="yes" rot="R270">
+<attribute name="VALUE" x="26.179" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
+<attribute name="NAME" x="27.456" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
+</element>
+<element name="XS2" library="Conn" package="1727078" value="1727078" x="16.764" y="11.684" smashed="yes">
+<attribute name="NAME" x="1.397" y="15.621" size="0.8128" layer="25"/>
+<attribute name="VALUE" x="9.779" y="14.224" size="0.6096" layer="27"/>
+</element>
+<element name="LED1" library="Optic" package="1206" value="GREEN" x="3.556" y="38.481" smashed="yes">
+<attribute name="VALUE" x="2.667" y="38.371" size="0.3048" layer="27" ratio="10"/>
+<attribute name="NAME" x="1.397" y="39.624" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="R26" library="RCL" package="1206" value="470R" x="3.556" y="35.687" smashed="yes">
+<attribute name="VALUE" x="2.667" y="35.577" size="0.3048" layer="27" ratio="10"/>
+<attribute name="NAME" x="2.54" y="35.33" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="Q1" library="Transistor" package="SOT23" value="BSS139" x="3.81" y="32.893" smashed="yes" rot="R90">
+<attribute name="NAME" x="5.842" y="31.242" size="0.8128" layer="25" rot="R180"/>
+<attribute name="VALUE" x="3.931" y="31.661" size="0.254" layer="27" rot="R90"/>
+</element>
 <element name="LED2" library="Optic" package="1206" value="GREEN" x="8.636" y="38.481"/>
-<element name="R27" library="RCL" package="1206" value="470R" x="8.636" y="35.687"/>
-<element name="Q2" library="Transistor" package="SOT23" value="BSS139" x="8.89" y="32.893" rot="R90"/>
+<element name="R27" library="RCL" package="1206" value="470R" x="8.636" y="35.687" smashed="yes">
+<attribute name="VALUE" x="7.747" y="35.577" size="0.3048" layer="27" ratio="10"/>
+<attribute name="NAME" x="7.62" y="35.33" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="Q2" library="Transistor" package="SOT23" value="BSS139" x="8.89" y="32.893" smashed="yes" rot="R90">
+<attribute name="NAME" x="10.922" y="31.242" size="0.8128" layer="25" rot="R180"/>
+<attribute name="VALUE" x="9.011" y="31.661" size="0.254" layer="27" rot="R90"/>
+</element>
 <element name="LED3" library="Optic" package="1206" value="YELLOW" x="13.716" y="38.481"/>
-<element name="R28" library="RCL" package="1206" value="470R" x="13.716" y="35.687"/>
-<element name="Q3" library="Transistor" package="SOT23" value="BSS139" x="13.97" y="32.893" rot="R90"/>
+<element name="R28" library="RCL" package="1206" value="470R" x="13.716" y="35.687" smashed="yes">
+<attribute name="VALUE" x="12.827" y="35.577" size="0.3048" layer="27" ratio="10"/>
+<attribute name="NAME" x="12.7" y="35.33" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="Q3" library="Transistor" package="SOT23" value="BSS139" x="13.97" y="32.893" smashed="yes" rot="R90">
+<attribute name="NAME" x="16.002" y="31.242" size="0.8128" layer="25" rot="R180"/>
+<attribute name="VALUE" x="14.091" y="31.661" size="0.254" layer="27" rot="R90"/>
+</element>
 <element name="LED4" library="Optic" package="1206" value="YELLOW" x="18.923" y="38.481"/>
-<element name="R29" library="RCL" package="1206" value="470R" x="18.923" y="35.687"/>
-<element name="Q4" library="Transistor" package="SOT23" value="BSS139" x="19.177" y="32.893" rot="R90"/>
+<element name="R29" library="RCL" package="1206" value="470R" x="18.923" y="35.687" smashed="yes">
+<attribute name="VALUE" x="18.034" y="35.577" size="0.3048" layer="27" ratio="10"/>
+<attribute name="NAME" x="17.907" y="35.33" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="Q4" library="Transistor" package="SOT23" value="BSS139" x="19.177" y="32.893" smashed="yes" rot="R90">
+<attribute name="NAME" x="21.209" y="31.242" size="0.8128" layer="25" rot="R180"/>
+<attribute name="VALUE" x="19.298" y="31.661" size="0.254" layer="27" rot="R90"/>
+</element>
 <element name="LED5" library="Optic" package="1206" value="YELLOW" x="24.13" y="38.481"/>
-<element name="R30" library="RCL" package="1206" value="470R" x="24.13" y="35.687"/>
-<element name="Q5" library="Transistor" package="SOT23" value="BSS139" x="24.257" y="32.893" rot="R90"/>
+<element name="R30" library="RCL" package="1206" value="470R" x="24.13" y="35.687" smashed="yes">
+<attribute name="VALUE" x="23.241" y="35.577" size="0.3048" layer="27" ratio="10"/>
+<attribute name="NAME" x="23.114" y="35.33" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="Q5" library="Transistor" package="SOT23" value="BSS139" x="24.257" y="32.893" smashed="yes" rot="R90">
+<attribute name="NAME" x="26.289" y="31.242" size="0.8128" layer="25" rot="R180"/>
+<attribute name="VALUE" x="24.378" y="31.661" size="0.254" layer="27" rot="R90"/>
+</element>
 <element name="LED6" library="Optic" package="1206" value="YELLOW" x="29.21" y="38.481"/>
-<element name="R31" library="RCL" package="1206" value="470R" x="29.21" y="35.687"/>
-<element name="Q6" library="Transistor" package="SOT23" value="BSS139" x="29.464" y="32.893" rot="R90"/>
+<element name="R31" library="RCL" package="1206" value="470R" x="29.21" y="35.687" smashed="yes">
+<attribute name="VALUE" x="28.321" y="35.577" size="0.3048" layer="27" ratio="10"/>
+<attribute name="NAME" x="28.321" y="35.33" size="0.8128" layer="25" ratio="10"/>
+</element>
+<element name="Q6" library="Transistor" package="SOT23" value="BSS139" x="29.464" y="32.893" smashed="yes" rot="R90">
+<attribute name="NAME" x="31.496" y="31.242" size="0.8128" layer="25" rot="R180"/>
+<attribute name="VALUE" x="29.585" y="31.661" size="0.254" layer="27" rot="R90"/>
+</element>
 <element name="X1" library="Conn" package="T1.6/0.9" value="" x="28.321" y="41.783" rot="R90"/>
 <element name="X2" library="Conn" package="T1.6/0.9" value="" x="30.861" y="41.783" rot="R90"/>
 </elements>
@@ -693,7 +844,7 @@ design rules under a new name.</description>
 <contactref element="C1" pad="2"/>
 <contactref element="R1.1" pad="2"/>
 <contactref element="R3.1" pad="1"/>
-<contactref element="ZD1" pad="A"/>
+<contactref element="D1" pad="A"/>
 <polygon width="0.254" layer="1">
 <vertex x="0" y="0"/>
 <vertex x="33.655" y="0"/>
@@ -703,23 +854,23 @@ design rules under a new name.</description>
 <contactref element="C2" pad="2"/>
 <contactref element="R1.2" pad="2"/>
 <contactref element="R3.2" pad="1"/>
-<contactref element="ZD2" pad="A"/>
+<contactref element="D2" pad="A"/>
 <contactref element="C3" pad="2"/>
 <contactref element="R1.3" pad="2"/>
 <contactref element="R3.3" pad="1"/>
-<contactref element="ZD3" pad="A"/>
+<contactref element="D3" pad="A"/>
 <contactref element="C4" pad="2"/>
 <contactref element="R1.4" pad="2"/>
 <contactref element="R3.4" pad="1"/>
-<contactref element="ZD4" pad="A"/>
+<contactref element="D4" pad="A"/>
 <contactref element="C5" pad="2"/>
 <contactref element="R1.5" pad="2"/>
 <contactref element="R3.5" pad="1"/>
-<contactref element="ZD5" pad="A"/>
+<contactref element="D5" pad="A"/>
 <contactref element="C6" pad="2"/>
 <contactref element="R1.6" pad="2"/>
 <contactref element="R3.6" pad="1"/>
-<contactref element="ZD6" pad="A"/>
+<contactref element="D6" pad="A"/>
 <contactref element="LED1" pad="2"/>
 <contactref element="LED2" pad="2"/>
 <contactref element="LED3" pad="2"/>
@@ -829,7 +980,7 @@ design rules under a new name.</description>
 <contactref element="R1.6" pad="1"/>
 <contactref element="R2.6" pad="1"/>
 <contactref element="C6" pad="1"/>
-<contactref element="ZD6" pad="C"/>
+<contactref element="D6" pad="C"/>
 <contactref element="Q6" pad="1"/>
 <wire x1="31.115" y1="23.241" x2="31.115" y2="25.654" width="0.8128" layer="1"/>
 <wire x1="31.115" y1="25.654" x2="31.115" y2="28.317" width="0.8128" layer="1"/>
@@ -853,7 +1004,7 @@ design rules under a new name.</description>
 <contactref element="R1.5" pad="1"/>
 <contactref element="R2.5" pad="1"/>
 <contactref element="C5" pad="1"/>
-<contactref element="ZD5" pad="C"/>
+<contactref element="D5" pad="C"/>
 <wire x1="25.908" y1="23.241" x2="25.908" y2="25.654" width="0.8128" layer="1"/>
 <wire x1="25.908" y1="25.654" x2="25.908" y2="28.325" width="0.8128" layer="1"/>
 <wire x1="25.908" y1="28.325" x2="25.912" y2="28.321" width="0.8128" layer="1"/>
@@ -878,7 +1029,7 @@ design rules under a new name.</description>
 <contactref element="R1.4" pad="1"/>
 <contactref element="R2.4" pad="1"/>
 <contactref element="C4" pad="1"/>
-<contactref element="ZD4" pad="C"/>
+<contactref element="D4" pad="C"/>
 <contactref element="Q4" pad="1"/>
 <wire x1="20.701" y1="23.241" x2="20.701" y2="25.654" width="0.8128" layer="1"/>
 <wire x1="20.701" y1="25.654" x2="20.701" y2="28.321" width="0.8128" layer="1"/>
@@ -902,7 +1053,7 @@ design rules under a new name.</description>
 <contactref element="R1.3" pad="1"/>
 <contactref element="R2.3" pad="1"/>
 <contactref element="C3" pad="1"/>
-<contactref element="ZD3" pad="C"/>
+<contactref element="D3" pad="C"/>
 <wire x1="15.621" y1="23.241" x2="15.621" y2="25.654" width="0.8128" layer="1"/>
 <wire x1="15.621" y1="25.654" x2="15.621" y2="28.317" width="0.8128" layer="1"/>
 <wire x1="15.621" y1="28.317" x2="15.625" y2="28.321" width="0.8128" layer="1"/>
@@ -927,9 +1078,9 @@ design rules under a new name.</description>
 <contactref element="R1.2" pad="1"/>
 <contactref element="R2.2" pad="1"/>
 <contactref element="C2" pad="1"/>
-<contactref element="ZD2" pad="C"/>
-<wire x1="10.541" y1="23.241" x2="10.541" y2="25.527" width="0.8128" layer="1"/>
-<wire x1="10.541" y1="25.527" x2="10.541" y2="28.317" width="0.8128" layer="1"/>
+<contactref element="D2" pad="C"/>
+<wire x1="10.541" y1="23.241" x2="10.541" y2="25.654" width="0.8128" layer="1"/>
+<wire x1="10.541" y1="25.654" x2="10.541" y2="28.317" width="0.8128" layer="1"/>
 <wire x1="10.541" y1="28.317" x2="10.545" y2="28.321" width="0.8128" layer="1"/>
 <contactref element="Q2" pad="1"/>
 <via x="10.033" y="30.48" extent="1-16" drill="0.6" diameter="1.27"/>
@@ -948,7 +1099,7 @@ design rules under a new name.</description>
 <contactref element="R1.1" pad="1"/>
 <contactref element="R2.1" pad="1"/>
 <contactref element="C1" pad="1"/>
-<contactref element="ZD1" pad="C"/>
+<contactref element="D1" pad="C"/>
 <wire x1="5.461" y1="23.241" x2="5.461" y2="25.654" width="0.8128" layer="1"/>
 <wire x1="5.461" y1="25.654" x2="5.461" y2="28.317" width="0.8128" layer="1"/>
 <wire x1="5.461" y1="28.317" x2="5.465" y2="28.321" width="0.8128" layer="1"/>
