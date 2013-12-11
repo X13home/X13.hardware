@@ -2,6 +2,5 @@ Extensions Module, Modular Series
   EXT_ADIN              Universal ADIO board
   EXT_DC_OUT            Digital Outs 4x 10-40V 1A
   EXT_EXPANDER          I2C Bus expander to 16 digital IO, IC - MCP23016
-  EXT_LED_RGB_NPN       RGB LED Driver with NPN outs, Analog - BlinkM
+  EXT_LED_RGB_NPN       RGB LED Driver with NPN outs, Analog - BlinkM, Prototype
   EXT_SCR               4x AC SCR Switch 80-300VAC, 2/8A
-  EXT_TMC222            I2C, Stepper motor controller Trinamic TMC222
