@@ -4736,65 +4736,65 @@ grid 5.6 mm</description>
 <part name="FRAME1" library="Frames" deviceset="A4L-LOC" device="" value="FR1"/>
 <part name="OUT" library="Conn" deviceset="ML20?E" device="LS" value="MF20"/>
 <part name="IN" library="Conn" deviceset="FE20E" device="LSS" value="EF20"/>
-<part name="R1.1" library="RCL" deviceset="R" device="1206" value="3k3"/>
-<part name="R2.1" library="RCL" deviceset="R" device="1206" value="6k8"/>
+<part name="R1.1" library="RCL" deviceset="R" device="1206" value="1k5"/>
+<part name="R2.1" library="RCL" deviceset="R" device="1206" value="12k"/>
 <part name="R3.1" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="C1" library="RCL" deviceset="C" device="1206" value="33n"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
-<part name="D1" library="Diode" deviceset="ZD" device="SOD80"/>
+<part name="D1" library="Diode" deviceset="ZD" device="SOD80" value="ZMM3,3"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="R4.1" library="RCL" deviceset="R" device="1206" value="n.b."/>
-<part name="R1.2" library="RCL" deviceset="R" device="1206" value="3k3"/>
-<part name="R2.2" library="RCL" deviceset="R" device="1206" value="6k8"/>
-<part name="R3.2" library="RCL" deviceset="R" device="1206" value="560R"/>
+<part name="R1.2" library="RCL" deviceset="R" device="1206" value="1k5"/>
+<part name="R2.2" library="RCL" deviceset="R" device="1206" value="12k"/>
+<part name="R3.2" library="RCL" deviceset="R" device="1206" value="510R"/>
 <part name="C2" library="RCL" deviceset="C" device="1206" value="33n"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="D2" library="Diode" deviceset="ZD" device="SOD80"/>
+<part name="D2" library="Diode" deviceset="ZD" device="SOD80" value="ZMM3,3"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R4.2" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
-<part name="R1.3" library="RCL" deviceset="R" device="1206" value="39k"/>
-<part name="R2.3" library="RCL" deviceset="R" device="1206" value="10k"/>
-<part name="R3.3" library="RCL" deviceset="R" device="1206" value="3k6"/>
+<part name="R1.3" library="RCL" deviceset="R" device="1206" value="n.b."/>
+<part name="R2.3" library="RCL" deviceset="R" device="1206" value="1k"/>
+<part name="R3.3" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="C3" library="RCL" deviceset="C" device="1206" value="33n"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="D3" library="Diode" deviceset="ZD" device="SOD80"/>
+<part name="D3" library="Diode" deviceset="ZD" device="SOD80" value="ZMM3,3"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="R4.3" library="RCL" deviceset="R" device="1206" value="n.b."/>
-<part name="R1.4" library="RCL" deviceset="R" device="1206" value="39k"/>
-<part name="R2.4" library="RCL" deviceset="R" device="1206" value="10k"/>
-<part name="R3.4" library="RCL" deviceset="R" device="1206" value="3k6"/>
+<part name="R1.4" library="RCL" deviceset="R" device="1206" value="n.b."/>
+<part name="R2.4" library="RCL" deviceset="R" device="1206" value="1k"/>
+<part name="R3.4" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="C4" library="RCL" deviceset="C" device="1206" value="33n"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
-<part name="D4" library="Diode" deviceset="ZD" device="SOD80"/>
+<part name="D4" library="Diode" deviceset="ZD" device="SOD80" value="ZMM3,3"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="R4.4" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="P+3" library="supply1" deviceset="VCC" device=""/>
 <part name="P+4" library="supply1" deviceset="VCC" device=""/>
-<part name="R1.5" library="RCL" deviceset="R" device="1206" value="39k"/>
-<part name="R2.5" library="RCL" deviceset="R" device="1206" value="10k"/>
+<part name="R1.5" library="RCL" deviceset="R" device="1206" value="n.b."/>
+<part name="R2.5" library="RCL" deviceset="R" device="1206" value="1k"/>
 <part name="R3.5" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="C5" library="RCL" deviceset="C" device="1206" value="33n"/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
-<part name="D5" library="Diode" deviceset="ZD" device="SOD80"/>
+<part name="D5" library="Diode" deviceset="ZD" device="SOD80" value="ZMM3,3"/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
-<part name="R4.5" library="RCL" deviceset="R" device="1206" value="3k6"/>
-<part name="R1.6" library="RCL" deviceset="R" device="1206" value="39k"/>
-<part name="R2.6" library="RCL" deviceset="R" device="1206" value="10k"/>
+<part name="R4.5" library="RCL" deviceset="R" device="1206" value="3k3"/>
+<part name="R1.6" library="RCL" deviceset="R" device="1206" value="n.b."/>
+<part name="R2.6" library="RCL" deviceset="R" device="1206" value="1k"/>
 <part name="R3.6" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="C6" library="RCL" deviceset="C" device="1206" value="33n"/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
-<part name="D6" library="Diode" deviceset="ZD" device="SOD80"/>
+<part name="D6" library="Diode" deviceset="ZD" device="SOD80" value="ZMM3,3"/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
-<part name="R4.6" library="RCL" deviceset="R" device="1206" value="3k6"/>
+<part name="R4.6" library="RCL" deviceset="R" device="1206" value="3k3"/>
 <part name="P+5" library="supply1" deviceset="VCC" device=""/>
 <part name="P+6" library="supply1" deviceset="VCC" device=""/>
 <part name="XS2" library="Conn" deviceset="CON8-S" device="S381" value="1727078"/>

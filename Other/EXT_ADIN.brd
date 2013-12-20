@@ -621,11 +621,11 @@ design rules under a new name.</description>
 <elements>
 <element name="OUT" library="Conn" package="ML20LS" value="MF20" x="20.701" y="56.769" rot="R270"/>
 <element name="IN" library="Conn" package="FE10-2WSS" value="EF20" x="3.81" y="56.769" rot="R270"/>
-<element name="R1.1" library="RCL" package="1206" value="3k3" x="3.937" y="23.241" smashed="yes" rot="R180">
+<element name="R1.1" library="RCL" package="1206" value="1k5" x="3.937" y="23.241" smashed="yes" rot="R180">
 <attribute name="VALUE" x="4.826" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="5.207" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R2.1" library="RCL" package="1206" value="6k8" x="3.937" y="20.574" smashed="yes" rot="R180">
+<element name="R2.1" library="RCL" package="1206" value="12k" x="3.937" y="20.574" smashed="yes" rot="R180">
 <attribute name="VALUE" x="4.826" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="5.207" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
@@ -637,7 +637,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="4.826" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="4.572" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="D1" library="Diode" package="SOD80" value="" x="3.81" y="28.321" smashed="yes" rot="R180">
+<element name="D1" library="Diode" package="SOD80" value="ZMM3,3" x="3.81" y="28.321" smashed="yes" rot="R180">
 <attribute name="VALUE" x="4.569" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="2.921" y="27.94" size="0.8128" layer="25" ratio="10"/>
 </element>
@@ -645,15 +645,15 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="3.319" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
 <attribute name="NAME" x="4.596" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
 </element>
-<element name="R1.2" library="RCL" package="1206" value="3k3" x="9.017" y="23.241" smashed="yes" rot="R180">
+<element name="R1.2" library="RCL" package="1206" value="1k5" x="9.017" y="23.241" smashed="yes" rot="R180">
 <attribute name="VALUE" x="9.906" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="10.16" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R2.2" library="RCL" package="1206" value="6k8" x="9.017" y="20.574" smashed="yes" rot="R180">
+<element name="R2.2" library="RCL" package="1206" value="12k" x="9.017" y="20.574" smashed="yes" rot="R180">
 <attribute name="VALUE" x="9.906" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="10.16" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R3.2" library="RCL" package="1206" value="560R" x="9.017" y="17.907" smashed="yes" rot="R180">
+<element name="R3.2" library="RCL" package="1206" value="510R" x="9.017" y="17.907" smashed="yes" rot="R180">
 <attribute name="VALUE" x="9.906" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="10.16" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
@@ -661,7 +661,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="9.906" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="9.652" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="D2" library="Diode" package="SOD80" value="" x="8.89" y="28.321" smashed="yes" rot="R180">
+<element name="D2" library="Diode" package="SOD80" value="ZMM3,3" x="8.89" y="28.321" smashed="yes" rot="R180">
 <attribute name="VALUE" x="9.649" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="8.001" y="27.94" size="0.8128" layer="25" ratio="10"/>
 </element>
@@ -669,15 +669,15 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="7.129" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
 <attribute name="NAME" x="8.406" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
 </element>
-<element name="R1.3" library="RCL" package="1206" value="39k" x="14.097" y="23.241" smashed="yes" rot="R180">
+<element name="R1.3" library="RCL" package="1206" value="n.b." x="14.097" y="23.241" smashed="yes" rot="R180">
 <attribute name="VALUE" x="14.986" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="15.24" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R2.3" library="RCL" package="1206" value="10k" x="14.097" y="20.574" smashed="yes" rot="R180">
+<element name="R2.3" library="RCL" package="1206" value="1k" x="14.097" y="20.574" smashed="yes" rot="R180">
 <attribute name="VALUE" x="14.986" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="15.24" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R3.3" library="RCL" package="1206" value="3k6" x="14.097" y="17.907" smashed="yes" rot="R180">
+<element name="R3.3" library="RCL" package="1206" value="n.b." x="14.097" y="17.907" smashed="yes" rot="R180">
 <attribute name="VALUE" x="14.986" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="15.24" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
@@ -685,7 +685,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="14.986" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="14.732" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="D3" library="Diode" package="SOD80" value="" x="13.97" y="28.321" smashed="yes" rot="R180">
+<element name="D3" library="Diode" package="SOD80" value="ZMM3,3" x="13.97" y="28.321" smashed="yes" rot="R180">
 <attribute name="VALUE" x="14.729" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="13.081" y="27.94" size="0.8128" layer="25" ratio="10"/>
 </element>
@@ -693,15 +693,15 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="14.749" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
 <attribute name="NAME" x="16.026" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
 </element>
-<element name="R1.4" library="RCL" package="1206" value="39k" x="19.177" y="23.241" smashed="yes" rot="R180">
+<element name="R1.4" library="RCL" package="1206" value="n.b." x="19.177" y="23.241" smashed="yes" rot="R180">
 <attribute name="VALUE" x="20.066" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="20.32" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R2.4" library="RCL" package="1206" value="10k" x="19.177" y="20.574" smashed="yes" rot="R180">
+<element name="R2.4" library="RCL" package="1206" value="1k" x="19.177" y="20.574" smashed="yes" rot="R180">
 <attribute name="VALUE" x="20.066" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="20.32" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R3.4" library="RCL" package="1206" value="3k6" x="19.177" y="17.907" smashed="yes" rot="R180">
+<element name="R3.4" library="RCL" package="1206" value="n.b." x="19.177" y="17.907" smashed="yes" rot="R180">
 <attribute name="VALUE" x="20.066" y="18.017" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="20.32" y="18.391" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
@@ -709,7 +709,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="20.066" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="19.812" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="D4" library="Diode" package="SOD80" value="" x="19.05" y="28.321" smashed="yes" rot="R180">
+<element name="D4" library="Diode" package="SOD80" value="ZMM3,3" x="19.05" y="28.321" smashed="yes" rot="R180">
 <attribute name="VALUE" x="19.809" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="18.161" y="27.94" size="0.8128" layer="25" ratio="10"/>
 </element>
@@ -717,11 +717,11 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="18.559" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
 <attribute name="NAME" x="19.836" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
 </element>
-<element name="R1.5" library="RCL" package="1206" value="39k" x="24.384" y="23.241" smashed="yes" rot="R180">
+<element name="R1.5" library="RCL" package="1206" value="n.b." x="24.384" y="23.241" smashed="yes" rot="R180">
 <attribute name="VALUE" x="25.273" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="25.527" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R2.5" library="RCL" package="1206" value="10k" x="24.384" y="20.574" smashed="yes" rot="R180">
+<element name="R2.5" library="RCL" package="1206" value="1k" x="24.384" y="20.574" smashed="yes" rot="R180">
 <attribute name="VALUE" x="25.273" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="25.527" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
@@ -733,19 +733,19 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="25.273" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="25.019" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="D5" library="Diode" package="SOD80" value="" x="24.257" y="28.321" smashed="yes" rot="R180">
+<element name="D5" library="Diode" package="SOD80" value="ZMM3,3" x="24.257" y="28.321" smashed="yes" rot="R180">
 <attribute name="VALUE" x="25.016" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="23.368" y="27.94" size="0.8128" layer="25" ratio="10"/>
 </element>
-<element name="R4.5" library="RCL" package="1206" value="3k6" x="22.479" y="4.318" smashed="yes" rot="R270">
+<element name="R4.5" library="RCL" package="1206" value="3k3" x="22.479" y="4.318" smashed="yes" rot="R270">
 <attribute name="VALUE" x="22.369" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
 <attribute name="NAME" x="23.646" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
 </element>
-<element name="R1.6" library="RCL" package="1206" value="39k" x="29.591" y="23.241" smashed="yes" rot="R180">
+<element name="R1.6" library="RCL" package="1206" value="n.b." x="29.591" y="23.241" smashed="yes" rot="R180">
 <attribute name="VALUE" x="30.48" y="23.351" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="30.734" y="23.725" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R2.6" library="RCL" package="1206" value="10k" x="29.591" y="20.574" smashed="yes" rot="R180">
+<element name="R2.6" library="RCL" package="1206" value="1k" x="29.591" y="20.574" smashed="yes" rot="R180">
 <attribute name="VALUE" x="30.48" y="20.684" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="30.734" y="20.931" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
@@ -757,11 +757,11 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="30.48" y="25.764" size="0.3048" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="30.226" y="26.011" size="0.8128" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="D6" library="Diode" package="SOD80" value="" x="29.464" y="28.321" smashed="yes" rot="R180">
+<element name="D6" library="Diode" package="SOD80" value="ZMM3,3" x="29.464" y="28.321" smashed="yes" rot="R180">
 <attribute name="VALUE" x="30.223" y="28.474" size="0.254" layer="27" ratio="10" rot="R180"/>
 <attribute name="NAME" x="28.575" y="27.94" size="0.8128" layer="25" ratio="10"/>
 </element>
-<element name="R4.6" library="RCL" package="1206" value="3k6" x="26.289" y="4.318" smashed="yes" rot="R270">
+<element name="R4.6" library="RCL" package="1206" value="3k3" x="26.289" y="4.318" smashed="yes" rot="R270">
 <attribute name="VALUE" x="26.179" y="5.207" size="0.3048" layer="27" ratio="10" rot="R270"/>
 <attribute name="NAME" x="27.456" y="6.604" size="0.8128" layer="25" ratio="10" rot="R270"/>
 </element>
