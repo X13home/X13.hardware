@@ -4757,7 +4757,7 @@ grid 5.6 mm</description>
 <part name="R4.2" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
-<part name="R1.3" library="RCL" deviceset="R" device="1206" value="n.b."/>
+<part name="R1.3" library="RCL" deviceset="R" device="1206" value="2k2"/>
 <part name="R2.3" library="RCL" deviceset="R" device="1206" value="1k"/>
 <part name="R3.3" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="C3" library="RCL" deviceset="C" device="1206" value="33n"/>
@@ -4766,7 +4766,7 @@ grid 5.6 mm</description>
 <part name="D3" library="Diode" deviceset="ZD" device="SOD80" value="ZMM3,3"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="R4.3" library="RCL" deviceset="R" device="1206" value="n.b."/>
-<part name="R1.4" library="RCL" deviceset="R" device="1206" value="n.b."/>
+<part name="R1.4" library="RCL" deviceset="R" device="1206" value="2k2"/>
 <part name="R2.4" library="RCL" deviceset="R" device="1206" value="1k"/>
 <part name="R3.4" library="RCL" deviceset="R" device="1206" value="n.b."/>
 <part name="C4" library="RCL" deviceset="C" device="1206" value="33n"/>
