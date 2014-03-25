@@ -1621,24 +1621,21 @@ Based on the following sources:&lt;p&gt;
 <packages>
 <package name="SOIC8">
 <description>&lt;B&gt;Wide Plastic Gull Wing Small Outline Package&lt;/B&gt;</description>
-<wire x1="-2.6" y1="2.25" x2="-2.35" y2="2.5" width="0.1524" layer="21" curve="-90"/>
-<wire x1="2.35" y1="2.5" x2="2.6" y2="2.25" width="0.1524" layer="21" curve="-90"/>
-<wire x1="2.35" y1="-2.5" x2="2.6" y2="-2.25" width="0.1524" layer="21" curve="90"/>
-<wire x1="-2.6" y1="-2.25" x2="-2.35" y2="-2.5" width="0.1524" layer="21" curve="90"/>
+<wire x1="-2.6" y1="2.25" x2="-2.35" y2="2.5" width="0.1524" layer="51" curve="-90"/>
+<wire x1="2.35" y1="2.5" x2="2.6" y2="2.25" width="0.1524" layer="51" curve="-90"/>
+<wire x1="2.35" y1="-2.5" x2="2.6" y2="-2.25" width="0.1524" layer="51" curve="90"/>
+<wire x1="-2.6" y1="-2.25" x2="-2.35" y2="-2.5" width="0.1524" layer="51" curve="90"/>
 <wire x1="2.36" y1="-2.5" x2="-2.34" y2="-2.5" width="0.1524" layer="51"/>
 <wire x1="-2.34" y1="2.5" x2="2.36" y2="2.5" width="0.1524" layer="51"/>
-<wire x1="-2.21" y1="2.5" x2="-2.34" y2="2.5" width="0.1524" layer="21"/>
-<wire x1="-1.59" y1="2.5" x2="-0.95" y2="2.5" width="0.1524" layer="21"/>
-<wire x1="-0.32" y1="2.5" x2="0.32" y2="2.5" width="0.1524" layer="21"/>
-<wire x1="0.95" y1="2.5" x2="1.59" y2="2.5" width="0.1524" layer="21"/>
-<wire x1="2.21" y1="2.5" x2="2.36" y2="2.5" width="0.1524" layer="21"/>
-<wire x1="2.2" y1="-2.5" x2="2.33" y2="-2.5" width="0.1524" layer="21"/>
-<wire x1="1.59" y1="-2.5" x2="0.94" y2="-2.5" width="0.1524" layer="21"/>
-<wire x1="0.32" y1="-2.5" x2="-0.33" y2="-2.5" width="0.1524" layer="21"/>
-<wire x1="-0.95" y1="-2.5" x2="-1.59" y2="-2.5" width="0.1524" layer="21"/>
-<wire x1="-2.21" y1="-2.5" x2="-2.34" y2="-2.5" width="0.1524" layer="21"/>
-<wire x1="-2.6" y1="2.25" x2="-2.6" y2="-2.24" width="0.1524" layer="21"/>
-<wire x1="2.6" y1="-2.25" x2="2.6" y2="2.25" width="0.1524" layer="21"/>
+<wire x1="-1.59" y1="2.5" x2="-0.95" y2="2.5" width="0.1524" layer="51"/>
+<wire x1="-0.32" y1="2.5" x2="0.32" y2="2.5" width="0.1524" layer="51"/>
+<wire x1="0.95" y1="2.5" x2="1.59" y2="2.5" width="0.1524" layer="51"/>
+<wire x1="2.2" y1="-2.5" x2="2.33" y2="-2.5" width="0.1524" layer="51"/>
+<wire x1="1.59" y1="-2.5" x2="0.94" y2="-2.5" width="0.1524" layer="51"/>
+<wire x1="0.32" y1="-2.5" x2="-0.33" y2="-2.5" width="0.1524" layer="51"/>
+<wire x1="-0.95" y1="-2.5" x2="-1.59" y2="-2.5" width="0.1524" layer="51"/>
+<wire x1="-2.6" y1="2.25" x2="-2.6" y2="-2.24" width="0.1524" layer="51"/>
+<wire x1="2.6" y1="-2.25" x2="2.6" y2="2.25" width="0.1524" layer="51"/>
 <circle x="-1.928" y="-1.242" radius="0.381" width="0" layer="21"/>
 <smd name="1" x="-1.905" y="-3.154" dx="0.5" dy="2.2" layer="1"/>
 <smd name="2" x="-0.635" y="-3.154" dx="0.5" dy="2.2" layer="1"/>
@@ -1648,8 +1645,8 @@ Based on the following sources:&lt;p&gt;
 <smd name="7" x="-0.635" y="3.154" dx="0.5" dy="2.2" layer="1"/>
 <smd name="6" x="0.635" y="3.154" dx="0.5" dy="2.2" layer="1"/>
 <smd name="5" x="1.905" y="3.154" dx="0.5" dy="2.2" layer="1"/>
-<text x="-2.8448" y="-2.159" size="0.8128" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="-1.524" y="-0.254" size="0.6096" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-2.413" y="-0.4572" size="0.8128" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.413" y="0.762" size="0.6096" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="-2.08" y1="2.5" x2="-1.73" y2="3.4" layer="51"/>
 <rectangle x1="-0.81" y1="2.5" x2="-0.46" y2="3.4" layer="51"/>
 <rectangle x1="0.46" y1="2.5" x2="0.81" y2="3.4" layer="51"/>
@@ -1658,6 +1655,14 @@ Based on the following sources:&lt;p&gt;
 <rectangle x1="0.45" y1="-3.4" x2="0.8" y2="-2.5" layer="51"/>
 <rectangle x1="-0.82" y1="-3.4" x2="-0.47" y2="-2.5" layer="51"/>
 <rectangle x1="-2.08" y1="-3.4" x2="-1.73" y2="-2.5" layer="51"/>
+<wire x1="-2.667" y1="-4.318" x2="2.667" y2="-4.318" width="0.127" layer="39"/>
+<wire x1="2.667" y1="-4.318" x2="2.667" y2="4.318" width="0.127" layer="39"/>
+<wire x1="2.667" y1="4.318" x2="-2.667" y2="4.318" width="0.127" layer="39"/>
+<wire x1="-2.667" y1="4.318" x2="-2.667" y2="-4.318" width="0.127" layer="39"/>
+<wire x1="-2.667" y1="4.318" x2="2.667" y2="4.318" width="0.1524" layer="21"/>
+<wire x1="2.667" y1="4.318" x2="2.667" y2="-4.318" width="0.1524" layer="21"/>
+<wire x1="2.667" y1="-4.318" x2="-2.667" y2="-4.318" width="0.1524" layer="21"/>
+<wire x1="-2.667" y1="-4.318" x2="-2.667" y2="4.318" width="0.1524" layer="21"/>
 </package>
 </packages>
 <symbols>
