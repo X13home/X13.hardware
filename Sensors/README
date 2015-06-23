@@ -1,5 +1,5 @@
-Sens_BMP180                 Sensor Bosh - BMP180, Pressure & Temperature, 
-                            compatible with BMP085
+Sens_BMP180                 Sensor Bosh - BMP180, Pressure & Temperature, compatible with BMP085
+Sens_BME280                 Sensor Bosh - BME280, Pressure Temperature Humidity
 Sens_CC2D                   Sensor ChipCap2 from "GE Measurement & Control", Temperature and Humidity
 Sens_HIH613x                Sensors Honeywell - HIH6130/HIH6131, Temperature and Humidity
 Sens_LM75                   Sensor NXP/NS/STmicro - LM75, Temperature
