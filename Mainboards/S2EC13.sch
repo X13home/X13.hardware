@@ -12976,7 +12976,7 @@ ASMT-Jx3x</description>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="+3V10" library="supply1" deviceset="+3V3" device=""/>
 <part name="R7" library="RCL" deviceset="R" device="0603" value="0R"/>
-<part name="R9" library="RCL" deviceset="R" device="0603" value="0R"/>
+<part name="R9" library="RCL" deviceset="R" device="0603" value="NC"/>
 </parts>
 <sheets>
 <sheet>
