@@ -3,11 +3,14 @@ X13.hardware.Mainboards
 
 Hardware section for project X13.Home.
 
-Automation System oriented to "Smart House" over MQTT(S) protocol
+Automation System oriented to "Smart House" over MQTT(SN) protocol
 
-433/868/915 MHz
+Universal
+  S2EC13                Universal Mainboard S2EC13, STM32Fxx + Board ENC28J60/UART-USB/RS485 + TRV CC1101(TI), Format DIN 72mm.
+
+RF only 433/868/915 MHz
   TRV_UP20              Mainboard UP20, ATMega328P + TRV CC1101(TI)
   TRV_MRF49_U_V1.1_F    Mainboard UN10, ATMega328P + TRV MRF49XA(Microchip)
 
 Other
-  USB_Adapter           USB Adapter for UP20
+  USB_Adapter           USB Adapter for UP20, obsolete
