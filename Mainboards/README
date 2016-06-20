@@ -9,11 +9,12 @@ Universal
   S2EC13                Universal Mainboard, STM32Fxx + Board ENC28J60/UART-USB/RS485 + TRV CC1101(TI), Format DIN 72mm.
   S2ER13                Universal Mainboard, STM32Fxx + Board ENC28J60/UART-USB/RS485 + RF RFM69[H]W, Format DIN 72mm.
 
-RF - ISM Band(433/868/915 MHz)
+RF - ISM Band(315/433/868/915 MHz)
   TRV_UP20              Mainboard UP20, ATMega328P + TRV CC1101(TI)
   TRV_MRF49_U_V1.1_F    Mainboard UN10, ATMega328P + TRV MRF49XA(Microchip)
 
   S4CX11                uNode V3.0, STM32F303K/STM32F334K + TRV CC1101(TI)
+  S4QX11                uNode V3.0, STM32F303K/STM32F334K + TRV RFM69CW
 
 Other
   USB_Adapter           Adapter USB-UART to 20pin, V0.1
