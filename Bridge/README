@@ -1,4 +1,8 @@
+X13.hardware.Bridge
+===================
+
+Bridges between protocols and bus's
+
 Bridge_PCA9517      I2C to I2C Bridge/Level Translator
-EXT_TWI_LVC         I2C to I2C Bridge/Level Translator, Modular Series
-
-
+EXT_RS485           Adapter to RS485 Bus, Modular 72mm Series
+EXT_TWI_LVC         I2C to I2C Bridge/Level Translator, Modular 72mm Series

@@ -3,16 +3,18 @@ X13.hardware.Mainboards
 
 Hardware section for project X13.Home.
 
-Automation System oriented to "Smart House" over MQTT(SN) protocol
+Automation System oriented to "Smart House"(IoT) over MQTT(SN) protocol
 
 Universal
   S2EC13                Universal Mainboard, STM32Fxx + Board ENC28J60/UART-USB/RS485 + TRV CC1101(TI), Format DIN 72mm.
   S2ER13                Universal Mainboard, STM32Fxx + Board ENC28J60/UART-USB/RS485 + RF RFM69[H]W, Format DIN 72mm.
-  S2Mn10                Mini RS485 node, STM32FxxxKxT
+  S2Mn10                Micro (33/19mm) RS485 node, STM32FxxxKxT
+  S4Cx11                Mini Board STM32F3 + CC1101 Module
+  S4Qx11                Mini Board STM32F3 + RFM69CW Module
 
 RF only 433/868/915 MHz
   TRV_UP20              Mainboard UP20, ATMega328P + TRV CC1101(TI)
   TRV_MRF49_U_V1.1_F    Mainboard UN10, ATMega328P + TRV MRF49XA(Microchip)
 
 Other
-  USB_Adapter           USB Adapter for Modular Version
+  USB_Adapter           USB Adapter to UART adapter 20 pin
