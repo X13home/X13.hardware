@@ -8,10 +8,11 @@ Automation System oriented to "Smart House" over MQTT(SN) protocol
 Universal
   S2EC13                Universal Mainboard, STM32Fxx + Board ENC28J60/UART-USB/RS485 + TRV CC1101(TI), Format DIN 72mm.
   S2ER13                Universal Mainboard, STM32Fxx + Board ENC28J60/UART-USB/RS485 + RF RFM69[H]W, Format DIN 72mm.
+  S2Mn10                Mini RS485 node, STM32FxxxKxT
 
 RF only 433/868/915 MHz
   TRV_UP20              Mainboard UP20, ATMega328P + TRV CC1101(TI)
   TRV_MRF49_U_V1.1_F    Mainboard UN10, ATMega328P + TRV MRF49XA(Microchip)
 
 Other
-  USB_Adapter           USB Adapter for UP20, obsolete
+  USB_Adapter           USB Adapter for Modular Version

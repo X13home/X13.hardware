@@ -3,5 +3,7 @@ Extensions Module, Modular Series
   EXT_DC_OUT            Digital Outs 4x 10-40V 1A
   EXT_DIMMER            AC Dimmer 2channels
   EXT_EXPANDER          I2C Bus expander to 16 digital IO, IC - MCP23016
+  EXT_LED               Debug Indicators Board
   EXT_LED_RGB_NPN       RGB LED Driver with NPN outs, Analog - BlinkM, Prototype
+  EXT_RS485             Adapter to RS485 Bus
   EXT_SCR               4x AC SCR Switch 80-300VAC, 2/8A
