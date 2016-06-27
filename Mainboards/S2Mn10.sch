@@ -1863,10 +1863,10 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <circle x="-1.27" y="0" radius="0.9027" width="0.127" layer="51"/>
 <circle x="1.27" y="0" radius="0.9004" width="0.127" layer="51"/>
 <circle x="3.81" y="0" radius="0.9044" width="0.127" layer="51"/>
-<pad name="1" x="-3.81" y="0" drill="1.1" diameter="1.6764" shape="octagon" first="yes"/>
-<pad name="2" x="-1.27" y="0" drill="1.1" diameter="1.6764"/>
-<pad name="3" x="1.27" y="0" drill="1.1" diameter="1.6764"/>
-<pad name="4" x="3.81" y="0" drill="1.1" diameter="1.6764"/>
+<pad name="1" x="-3.81" y="0" drill="1.1" diameter="1.9304" shape="octagon" first="yes"/>
+<pad name="2" x="-1.27" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="3" x="1.27" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="4" x="3.81" y="0" drill="1.1" diameter="1.9304"/>
 <text x="-5.08" y="-1.905" size="0.6096" layer="27">&gt;VALUE</text>
 <text x="1.27" y="-1.905" size="0.6096" layer="25">&gt;NAME</text>
 <text x="-4.318" y="1.524" size="1.27" layer="51">1</text>
@@ -3638,30 +3638,6 @@ ASMT-Jx3x</description>
 <rectangle x1="-2.475" y1="0.975" x2="-1.875" y2="1.625" layer="51" rot="R270"/>
 <rectangle x1="-2.475" y1="-1.625" x2="-1.875" y2="-0.975" layer="51" rot="R270"/>
 </package>
-<package name="LED2M5SMD">
-<wire x1="-1.2" y1="1.2" x2="-1.2" y2="-0.65" width="0.127" layer="51"/>
-<wire x1="-1.2" y1="-0.65" x2="-1.2" y2="-1.2" width="0.127" layer="51"/>
-<wire x1="-1.2" y1="-1.2" x2="-0.65" y2="-1.2" width="0.127" layer="51"/>
-<wire x1="-0.65" y1="-1.2" x2="1.2" y2="-1.2" width="0.127" layer="51"/>
-<wire x1="1.2" y1="-1.2" x2="1.2" y2="1.2" width="0.127" layer="51"/>
-<wire x1="1.2" y1="1.2" x2="-1.2" y2="1.2" width="0.127" layer="51"/>
-<wire x1="-1.2" y1="-0.65" x2="-0.65" y2="-1.2" width="0.127" layer="51"/>
-<wire x1="2.794" y1="1.27" x2="2.794" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="2.794" y1="-1.27" x2="-2.794" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-2.794" y1="-1.27" x2="-2.794" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-2.794" y1="1.27" x2="2.794" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="2.794" y1="1.27" x2="2.794" y2="-1.27" width="0.1" layer="39"/>
-<wire x1="2.794" y1="-1.27" x2="-2.794" y2="-1.27" width="0.1" layer="39"/>
-<wire x1="-2.794" y1="-1.27" x2="-2.794" y2="1.27" width="0.1" layer="39"/>
-<wire x1="-2.794" y1="1.27" x2="2.794" y2="1.27" width="0.1" layer="39"/>
-<circle x="0" y="0" radius="0.9" width="0.127" layer="51"/>
-<smd name="C" x="-1.9" y="0" dx="1.35" dy="0.75" layer="1"/>
-<smd name="A" x="1.9" y="0" dx="1.35" dy="0.75" layer="1"/>
-<text x="-1.154" y="-1.089" size="0.4064" layer="25">&gt;NAME</text>
-<text x="-1.049" y="0.74" size="0.4064" layer="27">&gt;VALUE</text>
-<rectangle x1="1.475" y1="-0.425" x2="1.875" y2="0.425" layer="51" rot="R270"/>
-<rectangle x1="-1.925" y1="-0.425" x2="-1.425" y2="0.425" layer="51" rot="R270"/>
-</package>
 <package name="0603">
 <wire x1="1.2" y1="0.6" x2="1.2" y2="-0.6" width="0.0762" layer="39"/>
 <wire x1="1.2" y1="-0.6" x2="-1.2" y2="-0.6" width="0.0762" layer="39"/>
@@ -3734,20 +3710,20 @@ ASMT-Jx3x</description>
 <rectangle x1="-0.8" y1="0.67" x2="0.8" y2="1.27" layer="51"/>
 </package>
 <package name="1206">
-<wire x1="2.2098" y1="1.0668" x2="2.2098" y2="-1.0668" width="0.1524" layer="21"/>
-<wire x1="2.2098" y1="-1.0668" x2="-2.2098" y2="-1.0668" width="0.1524" layer="21"/>
-<wire x1="-2.2098" y1="-1.0668" x2="-2.2098" y2="1.0668" width="0.1524" layer="21"/>
-<wire x1="-2.2098" y1="1.0668" x2="2.2098" y2="1.0668" width="0.1524" layer="21"/>
+<wire x1="2.2352" y1="1.0922" x2="2.2352" y2="-1.0922" width="0.1524" layer="21"/>
+<wire x1="2.2352" y1="-1.0922" x2="-2.2352" y2="-1.0922" width="0.1524" layer="21"/>
+<wire x1="-2.2352" y1="-1.0922" x2="-2.2352" y2="1.0922" width="0.1524" layer="21"/>
+<wire x1="-2.2352" y1="1.0922" x2="2.2352" y2="1.0922" width="0.1524" layer="21"/>
 <wire x1="-1.1" y1="0.7" x2="1.1" y2="0.7" width="0.127" layer="51"/>
 <wire x1="-1.1" y1="-0.7" x2="1.1" y2="-0.7" width="0.127" layer="51"/>
-<wire x1="-2.159" y1="1.016" x2="2.159" y2="1.016" width="0.1" layer="39"/>
-<wire x1="2.159" y1="1.016" x2="2.159" y2="-1.016" width="0.1" layer="39"/>
-<wire x1="2.159" y1="-1.016" x2="-2.159" y2="-1.016" width="0.1" layer="39"/>
-<wire x1="-2.159" y1="-1.016" x2="-2.159" y2="1.016" width="0.1" layer="39"/>
+<wire x1="-2.1844" y1="1.0414" x2="2.1844" y2="1.0414" width="0.1" layer="39"/>
+<wire x1="2.1844" y1="1.0414" x2="2.1844" y2="-1.0414" width="0.1" layer="39"/>
+<wire x1="2.1844" y1="-1.0414" x2="-2.1844" y2="-1.0414" width="0.1" layer="39"/>
+<wire x1="-2.1844" y1="-1.0414" x2="-2.1844" y2="1.0414" width="0.1" layer="39"/>
 <smd name="2" x="1.524" y="0" dx="1.016" dy="1.778" layer="1"/>
 <smd name="1" x="-1.524" y="0" dx="1.016" dy="1.778" layer="1"/>
 <text x="-0.889" y="-0.11" size="0.3048" layer="27" ratio="10">&gt;VALUE</text>
-<text x="-2.159" y="1.1938" size="0.8128" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.159" y="1.143" size="0.8128" layer="25" ratio="10">&gt;NAME</text>
 <rectangle x1="-0.3" y1="-0.6" x2="0.3" y2="0.6" layer="35"/>
 <rectangle x1="-1.6" y1="-0.8" x2="-1.1" y2="0.8" layer="51"/>
 <rectangle x1="1.1" y1="-0.8" x2="1.6" y2="0.8" layer="51"/>
@@ -3881,6 +3857,31 @@ ASMT-Jx3x</description>
 <text x="-1.651" y="0.381" size="0.6096" layer="25">&gt;NAME</text>
 <text x="-1.651" y="-0.889" size="0.4064" layer="27">&gt;VALUE</text>
 </package>
+<package name="LED2M5SMD">
+<wire x1="-1.2" y1="1.2" x2="-1.2" y2="-0.65" width="0.127" layer="51"/>
+<wire x1="-1.2" y1="-0.65" x2="-1.2" y2="-1.2" width="0.127" layer="51"/>
+<wire x1="-1.2" y1="-1.2" x2="-0.65" y2="-1.2" width="0.127" layer="51"/>
+<wire x1="-0.65" y1="-1.2" x2="1.2" y2="-1.2" width="0.127" layer="51"/>
+<wire x1="1.2" y1="-1.2" x2="1.2" y2="1.2" width="0.127" layer="51"/>
+<wire x1="1.2" y1="1.2" x2="-1.2" y2="1.2" width="0.127" layer="51"/>
+<wire x1="-1.2" y1="-0.65" x2="-0.65" y2="-1.2" width="0.127" layer="51"/>
+<wire x1="2.794" y1="1.27" x2="2.794" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="2.794" y1="-1.27" x2="-2.794" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="-2.794" y1="-1.27" x2="-2.794" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="-2.794" y1="1.27" x2="2.794" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="2.794" y1="1.27" x2="2.794" y2="-1.27" width="0.1" layer="39"/>
+<wire x1="2.794" y1="-1.27" x2="-2.794" y2="-1.27" width="0.1" layer="39"/>
+<wire x1="-2.794" y1="-1.27" x2="-2.794" y2="1.27" width="0.1" layer="39"/>
+<wire x1="-2.794" y1="1.27" x2="2.794" y2="1.27" width="0.1" layer="39"/>
+<circle x="0" y="0" radius="0.9" width="0.127" layer="51"/>
+<smd name="C" x="-1.9" y="0" dx="1.35" dy="0.75" layer="1"/>
+<smd name="A" x="1.9" y="0" dx="1.35" dy="0.75" layer="1"/>
+<text x="-1.154" y="-1.089" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-1.049" y="0.74" size="0.4064" layer="27">&gt;VALUE</text>
+<rectangle x1="1.475" y1="-0.425" x2="1.875" y2="0.425" layer="51" rot="R270"/>
+<rectangle x1="-1.925" y1="-0.425" x2="-1.425" y2="0.425" layer="51" rot="R270"/>
+<circle x="-1.651" y="-0.889" radius="0.254" width="0" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="LED">
@@ -3986,8 +3987,8 @@ ASMT-Jx3x</description>
 </device>
 <device name="S2M5" package="LED2M5SMD">
 <connects>
-<connect gate="1" pin="A" pad="A"/>
-<connect gate="1" pin="C" pad="C"/>
+<connect gate="1" pin="A" pad="C"/>
+<connect gate="1" pin="C" pad="A"/>
 </connects>
 <technologies>
 <technology name=""/>
