@@ -3383,7 +3383,7 @@ ASMT-Jx3x</description>
 <instance part="G1" gate="1" x="157.48" y="104.14" rot="R180"/>
 <instance part="SWCLK" gate="1" x="38.1" y="109.22"/>
 <instance part="SWDIO" gate="1" x="38.1" y="111.76"/>
-<instance part="DE" gate="1" x="38.1" y="116.84"/>
+<instance part="DE" gate="1" x="38.1" y="114.3"/>
 <instance part="RX1" gate="1" x="38.1" y="119.38"/>
 <instance part="TX1" gate="1" x="38.1" y="121.92"/>
 <instance part="V2" gate="1" x="157.48" y="119.38" rot="R180"/>
@@ -3732,10 +3732,10 @@ ASMT-Jx3x</description>
 </net>
 <net name="DE" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="PA11"/>
-<wire x1="53.34" y1="116.84" x2="40.64" y2="116.84" width="0.1524" layer="91"/>
-<label x="43.18" y="116.84" size="1.778" layer="95"/>
+<wire x1="53.34" y1="114.3" x2="40.64" y2="114.3" width="0.1524" layer="91"/>
+<label x="43.18" y="114.3" size="1.778" layer="95"/>
 <pinref part="DE" gate="1" pin="S"/>
+<pinref part="IC1" gate="G$1" pin="PA12"/>
 </segment>
 </net>
 <net name="RX1" class="0">

@@ -4139,16 +4139,16 @@ ASMT-Jx3x</description>
 <part name="D1" library="Diode" deviceset="D-SCHOTKY" device="323" value="PMEG4005"/>
 <part name="C6" library="RCL" deviceset="C" device="0603" value="100n 50V"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
-<part name="X11" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="SWD"/>
-<part name="X13" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="SWC"/>
-<part name="X12" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="GND"/>
-<part name="X14" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="3V3"/>
+<part name="X23" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="SWD"/>
+<part name="X21" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="SWC"/>
 <part name="X9" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="GND"/>
+<part name="X10" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="3V3"/>
+<part name="X22" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="GND"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="X10" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="SDA"/>
+<part name="X16" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="SDA"/>
 <part name="X15" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="SCL"/>
-<part name="X16" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="GND"/>
-<part name="X17" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="3V3"/>
+<part name="X114" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="GND"/>
+<part name="X13" library="Conn" deviceset="WIREPAD" device="T1.6/0.9" value="3V3"/>
 <part name="IC4" library="DCDC" deviceset="LDO" device="" value="TPS70933"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="C7" library="RCL" deviceset="C" device="0603" value="2u2"/>
@@ -4201,16 +4201,16 @@ ASMT-Jx3x</description>
 <instance part="D1" gate="1" x="167.64" y="134.62"/>
 <instance part="C6" gate="1" x="177.8" y="127" rot="MR0"/>
 <instance part="GND11" gate="1" x="177.8" y="116.84"/>
-<instance part="X11" gate="1" x="38.1" y="111.76"/>
-<instance part="X13" gate="1" x="38.1" y="109.22"/>
-<instance part="X12" gate="1" x="238.76" y="124.46" rot="MR0"/>
-<instance part="X14" gate="1" x="238.76" y="132.08" rot="MR0"/>
-<instance part="X9" gate="1" x="38.1" y="106.68"/>
+<instance part="X23" gate="1" x="38.1" y="111.76"/>
+<instance part="X21" gate="1" x="38.1" y="109.22"/>
+<instance part="X9" gate="1" x="238.76" y="124.46" rot="MR0"/>
+<instance part="X10" gate="1" x="238.76" y="132.08" rot="MR0"/>
+<instance part="X22" gate="1" x="38.1" y="106.68"/>
 <instance part="GND8" gate="1" x="40.64" y="104.14"/>
-<instance part="X10" gate="1" x="109.22" y="127" rot="R180"/>
+<instance part="X16" gate="1" x="109.22" y="127" rot="R180"/>
 <instance part="X15" gate="1" x="109.22" y="129.54" rot="R180"/>
-<instance part="X16" gate="1" x="238.76" y="121.92" rot="MR0"/>
-<instance part="X17" gate="1" x="238.76" y="134.62" rot="MR0"/>
+<instance part="X114" gate="1" x="238.76" y="121.92" rot="MR0"/>
+<instance part="X13" gate="1" x="238.76" y="134.62" rot="MR0"/>
 <instance part="IC4" gate="G$1" x="195.58" y="132.08"/>
 <instance part="GND10" gate="1" x="195.58" y="116.84"/>
 <instance part="C7" gate="1" x="213.36" y="124.46" rot="MR180"/>
@@ -4260,9 +4260,9 @@ ASMT-Jx3x</description>
 <wire x1="233.68" y1="139.7" x2="233.68" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="C4" gate="1" pin="2"/>
 <wire x1="233.68" y1="134.62" x2="233.68" y2="132.08" width="0.1524" layer="91"/>
-<pinref part="X14" gate="1" pin="S"/>
+<pinref part="X10" gate="1" pin="S"/>
 <wire x1="236.22" y1="132.08" x2="233.68" y2="132.08" width="0.1524" layer="91"/>
-<pinref part="X17" gate="1" pin="S"/>
+<pinref part="X13" gate="1" pin="S"/>
 <wire x1="236.22" y1="134.62" x2="233.68" y2="134.62" width="0.1524" layer="91"/>
 <junction x="233.68" y="134.62"/>
 <pinref part="IC4" gate="G$1" pin="VOUT"/>
@@ -4312,9 +4312,9 @@ ASMT-Jx3x</description>
 <pinref part="GND4" gate="1" pin="GND"/>
 <wire x1="233.68" y1="124.46" x2="233.68" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="233.68" y1="121.92" x2="233.68" y2="119.38" width="0.1524" layer="91"/>
-<pinref part="X12" gate="1" pin="S"/>
+<pinref part="X9" gate="1" pin="S"/>
 <wire x1="236.22" y1="124.46" x2="233.68" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="X16" gate="1" pin="S"/>
+<pinref part="X114" gate="1" pin="S"/>
 <wire x1="236.22" y1="121.92" x2="233.68" y2="121.92" width="0.1524" layer="91"/>
 <junction x="233.68" y="121.92"/>
 </segment>
@@ -4343,7 +4343,7 @@ ASMT-Jx3x</description>
 <wire x1="177.8" y1="121.92" x2="177.8" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="X9" gate="1" pin="S"/>
+<pinref part="X22" gate="1" pin="S"/>
 <pinref part="GND8" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -4443,7 +4443,7 @@ ASMT-Jx3x</description>
 <pinref part="IC1" gate="G$1" pin="PA13"/>
 <wire x1="53.34" y1="111.76" x2="40.64" y2="111.76" width="0.1524" layer="91"/>
 <label x="43.18" y="111.76" size="1.778" layer="95"/>
-<pinref part="X11" gate="1" pin="S"/>
+<pinref part="X23" gate="1" pin="S"/>
 </segment>
 </net>
 <net name="SWC" class="0">
@@ -4451,7 +4451,7 @@ ASMT-Jx3x</description>
 <pinref part="IC1" gate="G$1" pin="PA14"/>
 <wire x1="53.34" y1="109.22" x2="40.64" y2="109.22" width="0.1524" layer="91"/>
 <label x="43.18" y="109.22" size="1.778" layer="95"/>
-<pinref part="X13" gate="1" pin="S"/>
+<pinref part="X21" gate="1" pin="S"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -4483,7 +4483,7 @@ ASMT-Jx3x</description>
 <pinref part="IC1" gate="G$1" pin="PB7"/>
 <wire x1="93.98" y1="127" x2="106.68" y2="127" width="0.1524" layer="91"/>
 <label x="96.52" y="127" size="1.778" layer="95"/>
-<pinref part="X10" gate="1" pin="S"/>
+<pinref part="X16" gate="1" pin="S"/>
 </segment>
 </net>
 <net name="SCL1" class="0">
