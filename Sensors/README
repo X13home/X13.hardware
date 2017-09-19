@@ -1,4 +1,4 @@
-Sens_BH1750                 Sensor Rohm - BH1750, Ambient Light
+Sens_BH1750(small)          Sensor Rohm - BH1750, Ambient Light
 Sens_BMP180                 Sensor Bosh - BMP180, Pressure & Temperature, compatible with BMP085
 Sens_BME280                 Sensor Bosh - BME280, Pressure Temperature Humidity
 Sens_CC2D                   Sensor ChipCap2 from "GE Measurement & Control", Temperature and Humidity
